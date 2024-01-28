@@ -12,7 +12,7 @@ Celebrate special occasions with this animated Happy Birthday card, created with
 
 ## Live Demo
 
-Experience the joyous animation of the Happy Birthday card by visiting the [browser demo](#).
+Experience the joyous animation of the Happy Birthday card by visiting the [browser demo](https://hadep275.github.io/Animated-Birthday-Card/).
 
 ## Video Demo
 
@@ -52,7 +52,7 @@ Feel free to customize the appearance of the Happy Birthday card by modifying th
 
 ## Contributors
 
-- [hadep]
+- ![hadep275](https://github.com/hadep275)
 
 ## License
 
