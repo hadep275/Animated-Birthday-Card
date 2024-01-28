@@ -2,8 +2,6 @@
 
 Celebrate special occasions with this animated Happy Birthday card, created with HTML and CSS. The card features a delightful wave animation and a heartwarming birthday message.
 
-![Birthday Card Demo](demo/birthday-card-demo.gif)
-
 ## Features
 
 - **Wave Animation:** Engaging wave animations add a dynamic and cheerful element to the birthday card.
@@ -16,7 +14,10 @@ Experience the joyous animation of the Happy Birthday card by visiting the [brow
 
 ## Video Demo
 
-For a detailed walkthrough and a closer look at the Happy Birthday card, check out the [video demo link](#).
+For a detailed walkthrough and a closer look at the Happy Birthday card, check out the [video demo link](https://github.com/hadep275/Animated-Birthday-Card/assets/65734173/51431612-6a2e-4092-bcfd-4f669023c871).
+
+[video demo link](https://github.com/hadep275/Animated-Birthday-Card/assets/65734173/51431612-6a2e-4092-bcfd-4f669023c871)
+
 
 ## How to Use
 
